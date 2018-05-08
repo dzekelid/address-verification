@@ -4,7 +4,7 @@ url: address-verification.streamdata.gallery
 tag: Address Verification
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-type
+github_user: streamdata-gallery-topics
 github_repo: address-verification
 github_branch: master
 collections:
